@@ -1,0 +1,2 @@
+# DESAFIO-QA-BEEDOO-2025
+Teste para Beedoo 2025

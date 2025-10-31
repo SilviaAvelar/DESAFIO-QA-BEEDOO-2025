@@ -1,4 +1,4 @@
-# Desafio QA Beedoo 2025 - [Silvia Avelar]
+# Desafio QA Beedoo 2025 - Silvia Avelar
 
 Este repositório contém toda a documentação e os artefatos gerados para o desafio de Analista de Qualidade de Software Júnior, focando na análise do módulo "Desafio de perguntas e respostas Beedoo".
 

@@ -32,5 +32,5 @@ A escolha desta User Story foi estratégica para analisar um fluxo de criação 
 *   📄 **[Relatório de Bugs Detalhado](./RELATORIO_DE_BUGS.md)**: Documentação detalhada de todos os bugs e melhorias encontrados.
 *   🔗 **[Plano de Testes Completo (Google Sheets)](https://docs.google.com/spreadsheets/d/1uOVeiClhhfAKRgEzCnHEjcGrri2S-zduXudNjvY_I4g/edit?usp=sharing)**: Contém todos os cenários e casos de teste em Gherkin.
 *   📂 **Evidências de Teste (Google Drive):** Repositório com todos os artefatos visuais.
-    *   🎥 **[Pasta com Vídeos (MP4)]([https://drive.google.com/drive/folders/1LR84bZOc5EJ4ZsKee_EnMLkyKrCWKgfx?usp=sharing])**: Gravações da execução de cada caso de teste.
+    *   🎥 **[Pasta com Vídeos (MP4)](https://drive.google.com/drive/folders/1LR84bZOc5EJ4ZsKee_EnMLkyKrCWKgfx?usp=sharing)**: Gravações da execução de cada caso de teste.
     *   🖼️ **[Pasta com Screenshots (PNG)](https://drive.google.com/drive/folders/12K7vOONMXHup8sTUYQoecTjzXgYWE5am?usp=sharing)**: Capturas de tela para bugs visuais e de layout.

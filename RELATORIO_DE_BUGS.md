@@ -12,7 +12,7 @@ Este documento apresenta a lista detalhada de todos os bugs funcionais e sugest�
     2.  Na lista de cursos, clicar no botão "EXCLUIR CURSO".
 *   **Resultado Esperado:** O sistema deveria exibir uma mensagem de sucesso E remover o curso da lista.
 *   **Resultado Atual:** O sistema exibe a mensagem "Curso excluído com sucesso!", mas o curso permanece visível na lista.
-*   **Evidência:** `[https://drive.google.com/file/d/1M_LWeDS6lwGUaav93ep9xnb-WBei0F3E/view?usp=sharing]`
+*   **Evidência:** [Ver Evidência em Vídeo]([https://drive.google.com/file/d/1M_LWeDS6lwGUaav93ep9xnb-WBei0F3E/view?usp=sharing])
 
 ### BUG-002: Cadastro de curso é permitido com todos os campos em branco
 *   **Severidade:** Alta
@@ -22,7 +22,7 @@ Este documento apresenta a lista detalhada de todos os bugs funcionais e sugest�
     3.  Clicar em "CURSO CADASTRAR".
 *   **Resultado Esperado:** O sistema deveria exibir mensagens de erro de validação e impedir o envio do formulário.
 *   **Resultado Atual:** O sistema exibe a mensagem "Curso cadastrado com sucesso!", criando um registro inválido.
-*   **Evidência:** `[https://drive.google.com/file/d/1nXsP_rDX98SwsVSDzufrYpJRGXOeJ9FH/view?usp=sharing]`
+*   **Evidência:** [Ver Evidência em Vídeo]([https://drive.google.com/file/d/1nXsP_rDX98SwsVSDzufrYpJRGXOeJ9FH/view?usp=sharing])
 
 ### BUG-003: Desalinhamento Visual (Quebra de Layout) na Listagem de Cursos
 *   **Severidade:** Média
@@ -31,7 +31,7 @@ Este documento apresenta a lista detalhada de todos os bugs funcionais e sugest�
     2.  Observar o alinhamento dos cards na página "Lista de cursos".
 *   **Resultado Esperado:** Os cards dos cursos deveriam ser exibidos em uma grade organizada.
 *   **Resultado Atual:** Os cards são exibidos de forma desalinhada, com quebras de linha inconsistentes.
-*   **Evidência:** `[https://drive.google.com/file/d/1R-13CMdG8BAMCpHcxGCV26n6OXIBem4n/view?usp=sharing]`
+*   **Evidência:** [Ver Evidência em Vídeo]([https://drive.google.com/file/d/1R-13CMdG8BAMCpHcxGCV26n6OXIBem4n/view?usp=sharing])
 
 ---
 
